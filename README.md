@@ -4,8 +4,8 @@ Things I use
 
 ## Editor
 
-- Coding Editor: [VS Code](https://code.visualstudio.com/)
-- Note: [Obsidian](https://obsidian.md/)
+- Coding Editor - [VS Code](https://code.visualstudio.com/)
+- Note - [Obsidian](https://obsidian.md/)
 
 ## CLI
 
@@ -14,9 +14,9 @@ Things I use
 
 ## Productivity
 
-- [Raycast](https://www.raycast.com/): Mac Launcher
-- [Notion](https://www.notion.so/): Goal Management
-- [Things](https://culturedcode.com/things/): Todo List Management
+- [Raycast](https://www.raycast.com/) -  Mac Launcher
+- [Notion](https://www.notion.so/) -  Goal Management
+- [Things](https://culturedcode.com/things/) -  Todo List Management
 
 ## Social Media
 
